@@ -1,2 +1,2 @@
 # Base-Converter
-Convert Decimal/Binary/Hex/Octal numbers
+/n Arduino Calculator that Convert Decimal/Binary/Hex/Octal numbers.
